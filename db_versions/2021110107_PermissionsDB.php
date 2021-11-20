@@ -33,6 +33,7 @@ class PermissionsDB extends DbMigration
     ('MANAGE_RULES','Gestione regolamento'),
     ('MANAGE_CONSTANTS', 'Permesso per l\'editing delle costanti'),
     ('MANAGE_RACES', 'Permesso per la gestione delle razze'),
+    ('MANAGE_CLASSES', 'Gestione classi di gioco'),
     ('MANAGE_FORUMS', 'Permesso per la gestione delle bacheche'),
     ('MANAGE_GUILDS', 'Permesso per la gestione delle gilde'),
     ('MANAGE_PERMISSIONS', 'Permesso per la gestione dei permessi'),
